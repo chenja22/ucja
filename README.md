@@ -2,7 +2,7 @@
 
 This repository contains the source code for a website designed to provide an engaging platform with intuitive navigation, an interactive impact dashboard, and outreach tools.
 
-**Project Goals**
+## **Project Goals**
 
 The primary goal is to build a scalable and user-friendly website that enhances engagement and provides valuable insights through an interactive dashboard. Key priorities include:
 
@@ -11,13 +11,13 @@ The primary goal is to build a scalable and user-friendly website that enhances 
  - **Impact Dashboard:** Develop an initial version with key metrics (e.g., student participation rates).
  - **Engagement Tools:** Implement a contact form and newsletter signup to improve user interaction.
 
-**Team Responsibilities**
+## **Team Responsibilities**
 
  - Frontend Team (Aaryan, Tim, Obi): Build the site skeleton, implement forms, and apply styling with CSS frameworks.
  - Backend Team (Christopher, Julian, Defne): Develop the database schema, create API endpoints, and integrate with the frontend.
  - Data & Dashboard Team (Anita, Deem, Rain): Prepare dummy data, build visualizations, and develop the interactive dashboard prototype.
 
-**Timeline Overview**
+## **Timeline Overview**
 
 *Weeks 1-2:* Complete site structure, backend setup, and basic forms.
 
@@ -25,7 +25,7 @@ The primary goal is to build a scalable and user-friendly website that enhances 
 
 *Weeks 5-6:* Refine the dashboard and develop advanced features like the partner portal.
 
-**Tech Stack**
+## **Tech Stack**
 
 *Frontend:* HTML, CSS (Bootstrap/Tailwind), JavaScript
 
