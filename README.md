@@ -1,4 +1,4 @@
-**<p style="font-size:24px;">Junior Achievement Website Development</p>**
+**Junior Achievement Website Development**
 
 This repository contains the source code for a website designed to provide an engaging platform with intuitive navigation, an interactive impact dashboard, and outreach tools.
 
@@ -26,6 +26,7 @@ The primary goal is to build a scalable and user-friendly website that enhances 
 *Weeks 5-6:* Refine the dashboard and develop advanced features like the partner portal.
 
 **Tech Stack**
+
 *Frontend:* HTML, CSS (Bootstrap/Tailwind), JavaScript
 
 *Backend:* Python (Django/Flask), SQLAlchemy
