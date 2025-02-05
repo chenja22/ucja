@@ -1,4 +1,4 @@
-**Junior Achievement Website Development**
+# **Junior Achievement Website Development**
 
 This repository contains the source code for a website designed to provide an engaging platform with intuitive navigation, an interactive impact dashboard, and outreach tools.
 
